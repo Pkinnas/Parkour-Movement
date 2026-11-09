@@ -6,11 +6,11 @@ This parkour system was developed as part of my thesis, with the objective of ex
 
 - Wall Running
 - Wall Climbing
-- Vaulting
 - Sliding
 - Ledge Grabbing
 - Wall Jumping
 - Rolling
+- Vaulting
 
 ## Technologies
 
